@@ -1,0 +1,10 @@
+{
+  "name" : "pavi",
+  "mail" : "p@gmail.com",
+  "phno" : [ 45484, 85655 ],
+  "spouse" : {
+    "name" : "gowri",
+    "mail" : "gowri@gmail.com",
+    "phno" : [ 45484, 85655 ]
+  }
+}
